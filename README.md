@@ -339,9 +339,7 @@ There is a **`requirements.txt`** file in `'Salary-Estimation'/requirements.txt`
   
 
 ```bash
-
 git clone https://github.com/AkashSDas/Salary-Estimation
-
 ```
 
   
@@ -365,13 +363,7 @@ git clone https://github.com/AkashSDas/Salary-Estimation
   
 
 ```bash
-
-  
-
 pip install pipenv
-
-  
-
 ```
 
   
@@ -395,9 +387,7 @@ pip install pipenv
   
 
 ```bash
-
 cd  'Salary-Estimation'/venv/
-
 ```
 
   
@@ -421,9 +411,7 @@ cd  'Salary-Estimation'/venv/
   
 
 ```bash
-
 pipenv install
-
 ```
 
   
@@ -469,9 +457,7 @@ This will install all the dependencies and create a **Pipfile.lock** (this shoul
   
 
 ```bash
-
 pipenv shell
-
 ```
 
   
@@ -497,9 +483,7 @@ pipenv shell
   
 
 ```bash
-
 cd src/
-
 ```
 
   
@@ -523,9 +507,7 @@ cd src/
   
 
 ```bash
-
 jupyter noterbook
-
 ```
 
   
