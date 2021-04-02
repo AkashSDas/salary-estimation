@@ -3,7 +3,7 @@
 
   
 
-# Salary Estimation
+# salary-estimation
 
   
 
